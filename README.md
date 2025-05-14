@@ -68,12 +68,3 @@ Users form **storage pools** with an ID & password, share files with each other,
 - No central file storage – all user-owned
 
 ---
-
-## 🚀 Getting Started
-
-> 🧩 Full setup instructions are in [`docs/setup.md`](docs/setup.md) (coming soon)
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/your-username/storage-pool.git
-cd storage-pool
